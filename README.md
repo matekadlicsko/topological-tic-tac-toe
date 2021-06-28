@@ -5,14 +5,14 @@ Besides being able to modify the size of the table, you can set it's topology. P
 most well-known example is a torus of which we can think about as the world of Pac-Man. In 
 TTTT a torus shaped table would be represented as:
 
-`     1   2   3     
-   +---+---+---+  
-1  |   |   |   | 1  
-   +---+---+---+  
-2  |   |   |   | 2  
-   +---+---+---+  
-3  |   |   |   | 3  
-   +---+---+---+  
+`     1   2   3     \
+   +---+---+---+    \
+1  |   |   |   | 1  \
+   +---+---+---+    \
+2  |   |   |   | 2  \
+   +---+---+---+    \
+3  |   |   |   | 3  \
+   +---+---+---+    \
      1   2   3     `  
 
 
